@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "948279403888",
+    "firebase_url": "https://populationapp.firebaseio.com",
+    "project_id": "populationapp",
+    "storage_bucket": "populationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948279403888:android:425940e60285a9e8",
+        "android_client_info": {
+          "package_name": "com.upfunstudio.populationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948279403888-pv0tl4om1tkpjhvg9qcgoqpcdo0j2o4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upfunstudio.populationapp",
+            "certificate_hash": "11fb48692677e5b7941314cba44f79fa0877f13c"
+          }
+        },
+        {
+          "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdpQ3G3S1w8hlJRCSoARW53kcfXDRCbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948279403888:android:f9d42836453d70d7",
+        "android_client_info": {
+          "package_name": "com.upfunstudio.tweeterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948279403888-q3ia6arc5h1fuf7pafg7un7i0jtp1hq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upfunstudio.tweeterapp",
+            "certificate_hash": "11fb48692677e5b7941314cba44f79fa0877f13c"
+          }
+        },
+        {
+          "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdpQ3G3S1w8hlJRCSoARW53kcfXDRCbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948279403888:android:45df782425b16ea8",
+        "android_client_info": {
+          "package_name": "com.upfunstudio.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948279403888-sgk5o98tjdo8p290h3d6r49oh995rrp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upfunstudio.app1",
+            "certificate_hash": "49fe1310941d971e6e92cdab0866638289a023b1"
+          }
+        },
+        {
+          "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdpQ3G3S1w8hlJRCSoARW53kcfXDRCbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948279403888:android:45b2cbfebb759b8c",
+        "android_client_info": {
+          "package_name": "com.upfunstudio.dailycookrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948279403888-j87sp39l3ctin9rp1k31ji4g6vb4mf0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upfunstudio.dailycookrecipe",
+            "certificate_hash": "49fe1310941d971e6e92cdab0866638289a023b1"
+          }
+        },
+        {
+          "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdpQ3G3S1w8hlJRCSoARW53kcfXDRCbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948279403888:android:c2944b6fe8cbe3ab",
+        "android_client_info": {
+          "package_name": "com.upfunstudio.dailycook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948279403888-4rgjetf1ilv2m966mrd8he9qv1ser4o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upfunstudio.dailycook",
+            "certificate_hash": "49fe1310941d971e6e92cdab0866638289a023b1"
+          }
+        },
+        {
+          "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWdpQ3G3S1w8hlJRCSoARW53kcfXDRCbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948279403888-1vnecijlucboqh85aq2c62gvljl33v45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.upfunstudio.dailycook.DesActivity">
+
+    <ImageView
+        android:id="@+id/imageDesActivity"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#c47e50" />
+
+    <TextView
+        android:id="@+id/titleActivityDes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Title1"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/desActivityDes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="des what  need to hae "
+        android:textColor="#000000"
+        android:textSize="17dp" />
+
+
+</LinearLayout>

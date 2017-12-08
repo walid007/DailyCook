@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.upfunstudio.dailycook.ProfilActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Update your profile picture"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:src="@drawable/ic_add_a_photo_added_24dp"
+        android:id="@+id/imageProfile"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#F4842F">
+
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/usernameDefault"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="Default username"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Your favourite list"
+        android:textSize="20dp"
+        tools:text="Your favourite list" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recListFav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" />
+
+    <Button
+        android:id="@+id/buReturn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/bu_login"
+        android:text="Return home"
+        android:textColor="#ffffff" />
+
+
+</LinearLayout>

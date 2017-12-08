@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.upfunstudio.dailycook.AddActivity">
+
+
+    <AutoCompleteTextView
+        android:id="@+id/titleAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Add title of the recipe" />
+
+    <MultiAutoCompleteTextView
+        android:id="@+id/desAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:gravity="top|top"
+        android:hint="Add description for recipe \nEtape0 : \nEtape1 :\nEtape2 :\n..."
+        android:paddingBottom="80dp"
+        android:paddingLeft="10dp" />
+
+    <Spinner
+        android:id="@+id/spinnerType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:entries="@array/types" />
+
+    <ImageView
+        android:id="@+id/imagerec"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/ic_add_a_photo_black_24dp"
+        tools:ignore="VectorDrawableCompat" />
+
+    <Button
+        android:id="@+id/buAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/bu_login"
+        android:text="Add"
+        android:textColor="#ffffff" />
+    <Button
+        android:id="@+id/buReturn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/bu_login"
+        android:text="Return home"
+        android:textColor="#ffffff" />
+
+
+</LinearLayout>
